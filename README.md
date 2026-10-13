@@ -7,7 +7,7 @@ We like to expose/publicize things.
 
 ## How to reach us & our “products”
 All communications can be done through our chat page on our website graveop.net.
-Our “products” are found on our personal GitHub which is linked on our website.
+Our “products” are found on our custom GitHub which is linked on our website.
 
 ## The End
 If you would like to know more visit our website graveop.net
